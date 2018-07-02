@@ -1,0 +1,3 @@
+INSERT INTO musics VALUES (1, 'U2', 'ROCK');
+INSERT INTO musics VALUES (2, 'TEXAS', 'POPROCK');
+INSERT INTO musics VALUES (3, 'OASIS', 'POP');
